@@ -19,4 +19,6 @@ pkill -f 'example.php' => for example you have 1000 process and you want to kill
 
 clear => it clears terminal so you can use easily.
 
+reboot => restarts your server.
+
 THATS ALL. These codes are enough to make everything on linux.

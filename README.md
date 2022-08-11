@@ -1,5 +1,5 @@
 # linux-essential-bash-codes
-Hello, im working for ai on linux and all commands which i need, im giving you.
+Hello, im working for ai on linux and all commands which i need, im giving you. These codes are enough to make everyrthing on Linux.
 
 cd /home => goes to home folder
 

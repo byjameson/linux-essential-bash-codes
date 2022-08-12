@@ -1,4 +1,5 @@
 # linux-essential-bash-codes
+```
 Hello, im working for ai on linux and all commands which i need, im giving you. These codes are enough to make everyrthing on Linux. These are Linux Essential Bash Codes
 
 cd /home => goes to home folder
@@ -22,3 +23,4 @@ clear => it clears terminal so you can use easily.
 reboot => restarts your server.
 
 THATS ALL. These codes are enough to make everything on linux.
+```
